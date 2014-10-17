@@ -1,0 +1,10 @@
+CREATE
+<note> <guid>450E1369-9D9D-4168-8969-2A4DCC8DDEC4</guid>
+  <created>2014-04-29T08:37:16Z</created>
+  <tag>poetry</tag>
+  <tag>byron</tag>
+  <content>
+    pota!to
+  </content></note>
+SEARCH
+potato
